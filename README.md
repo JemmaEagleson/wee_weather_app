@@ -18,6 +18,7 @@ After studying JavaScript over the last semester we were able to produce a basic
 ![thunder](https://github.com/JemmaEagleson/wee_weather_app/blob/master/images/Artboard%202.png?raw=true)
 ![windy](https://github.com/JemmaEagleson/wee_weather_app/blob/master/images/Artboard%203.png?raw=true)
 ![error](https://github.com/JemmaEagleson/wee_weather_app/blob/master/images/Artboard%208.png?raw=true)
+![misty](https://github.com/JemmaEagleson/wee_weather_app/blob/master/images/Artboard%2015.png?raw=true)
 
 ##Link to app
 
