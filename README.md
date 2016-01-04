@@ -1,3 +1,15 @@
+#Oblique Strategies App 
+This is a single webpage which loads an Oblique Strategy from an array. 
+
+##App Icon
+This icon can be added to the users homescreen
+
+![Icon] (https://cloud.githubusercontent.com/assets/8933902/12083836/338c149a-b2a2-11e5-8a73-962eae52b721.png)
+
+##Link to App 
+
+
+
 #Wee Weather App
 
 After studying JavaScript over the last semester we were able to produce a basic app which allows the user to search for the weather. To do this I used OpenWeatherMap's API in order to return some JSON, to make the app work.
